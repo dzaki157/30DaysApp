@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">a30dayswatchingmovies</string>
+        <!-- Tanggal Rilis diganti menjadi Hari Ke-X -->
+        <string name="date1">Hari ke-1</string>
+        <string name="date2">Hari ke-2</string>
+        <string name="date3">Hari ke-3</string>
+        <string name="date4">Hari ke-4</string>
+        <string name="date5">Hari ke-5</string>
+        <string name="date6">Hari ke-6</string>
+        <string name="date7">Hari ke-7</string>
+        <string name="date8">Hari ke-8</string>
+
+        <!-- Judul Film -->
+        <string name="movie1">Bayi Ajaib</string>
+        <string name="movie2">KKN di Desa Penari</string>
+        <string name="movie3">Kuyang</string>
+        <string name="movie4">Pamali</string>
+        <string name="movie5">Qorin</string>
+        <string name="movie6">Sewu Dino</string>
+        <string name="movie7">Siksa Neraka</string>
+        <string name="movie8">Waktu Magrib</string>
+
+        <!-- Deskripsi Film -->
+        <string name="movie_description1">Film horor legendaris Indonesia tentang bayi dengan kekuatan supranatural.</string>
+        <string name="movie_description2">Kisah mahasiswa yang mengalami pengalaman mistis di sebuah desa terpencil.</string>
+        <string name="movie_description3">Cerita mistis tentang mahluk legenda Kuyang yang meneror sebuah desa.</string>
+        <string name="movie_description4">Mengangkat tradisi Jawa dengan cerita seram dan penuh misteri.</string>
+        <string name="movie_description5">Film horor religi tentang entitas gaib yang dipanggil melalui ritual sekolah.</string>
+        <string name="movie_description6">Kisah horor dari tradisi Jawa tentang kutukan berdarah Sewu Dino.</string>
+        <string name="movie_description7">Film klasik Indonesia yang menggambarkan kehidupan setelah kematian yang mengerikan.</string>
+        <string name="movie_description8">Horor bertema spiritual tentang pengalaman mengerikan menjelang waktu Magrib.</string>
+    </resources>
